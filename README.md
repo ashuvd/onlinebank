@@ -1,4 +1,4 @@
-# tinkoff
+# onlinebank
 
 ## Project setup
 ```
